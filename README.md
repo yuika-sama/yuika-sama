@@ -1,4 +1,4 @@
-![👋 Hi, my name is Anh Nguyen Duc](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+![👋 Hi, my name is Anh Nguyen Duc]([https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif](https://preview.redd.it/6wd9i9x5ebz91.gif?width=1280&format=mp4&s=08ed2b23a4ab73deabf7d57649b5662eb1459868))
 
 <h1 align="center">Hi 👋, I'm Anh Nguyen Duc</h1>
 <h3 align="center">I am a PTIT's Student. My major is Multimedia Technology - Application Development. Right now, I am a member of a tech club named GDGoC-PTIT. My orientation is to become a mobile application developer. That's all. Thanks for reading.</h3>

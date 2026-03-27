@@ -21,9 +21,8 @@ My orientation is to become a mobile application developer. That's all. Thanks f
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 🌱 I'm currently learning: **📚 Kotlin, Java, MERN Stack**
-- 💬 Ask me about: **💡 C, C++, Python, Java, Kotlin**
-- ⚡ Fun fact: **🎢 I just recently retired from Competitive Programming**
+- 🌱 I'm currently learning: **📚 Kotlin, Typescript, Reactjs**
+- 💬 Ask me about: **💡 C, C++, Typescript, Kotlin**
 
  **<h3 align="left">Skills</h3>**
 
